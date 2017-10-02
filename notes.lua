@@ -1,0 +1,107 @@
+notes_level1 = {
+        love.audio.newSource("wave/level1/1.wav"),
+        love.audio.newSource("wave/level1/2.wav"),
+        love.audio.newSource("wave/level1/3.wav"),
+        love.audio.newSource("wave/level1/4.wav"),
+        love.audio.newSource("wave/level1/5.wav"),
+        love.audio.newSource("wave/level1/6.wav"),
+        love.audio.newSource("wave/level1/7.wav"),
+        love.audio.newSource("wave/level1/8.wav"),
+        love.audio.newSource("wave/level1/9.wav"),
+        love.audio.newSource("wave/level1/10.wav"),
+        love.audio.newSource("wave/level1/11.wav"),
+        love.audio.newSource("wave/level1/12.wav"),
+        love.audio.newSource("wave/level1/13.wav")
+
+}
+notes_level2 = {
+        love.audio.newSource("wave/level2/1.wav"),
+        love.audio.newSource("wave/level2/2.wav"),
+        love.audio.newSource("wave/level2/3.wav"),
+        love.audio.newSource("wave/level2/4.wav"),
+        love.audio.newSource("wave/level2/5.wav"),
+        love.audio.newSource("wave/level2/6.wav"),
+        love.audio.newSource("wave/level2/7.wav"),
+        love.audio.newSource("wave/level2/8.wav"),
+        love.audio.newSource("wave/level2/9.wav"),
+        love.audio.newSource("wave/level2/10.wav"),
+        love.audio.newSource("wave/level2/11.wav"),
+        love.audio.newSource("wave/level2/12.wav"),
+        love.audio.newSource("wave/level2/13.wav"),
+        love.audio.newSource("wave/level2/14.wav")
+}
+notes_level3 = {
+        love.audio.newSource("wave/level3/1.wav"),
+        love.audio.newSource("wave/level3/2.wav"),
+        love.audio.newSource("wave/level3/3.wav"),
+        love.audio.newSource("wave/level3/4.wav"),
+        love.audio.newSource("wave/level3/5.wav"),
+        love.audio.newSource("wave/level3/6.wav"),
+        love.audio.newSource("wave/level3/7.wav"),
+        love.audio.newSource("wave/level3/8.wav"),
+        love.audio.newSource("wave/level3/9.wav"),
+        love.audio.newSource("wave/level3/10.wav"),
+        love.audio.newSource("wave/level3/11.wav"),
+        love.audio.newSource("wave/level3/12.wav"),
+        love.audio.newSource("wave/level3/13.wav"),
+        love.audio.newSource("wave/level3/14.wav"),
+        love.audio.newSource("wave/level3/15.wav")
+}
+notes_level4 = {
+        love.audio.newSource("wave/level4/1.wav"),
+        love.audio.newSource("wave/level4/2.wav"),
+        love.audio.newSource("wave/level4/3.wav"),
+        love.audio.newSource("wave/level4/4.wav"),
+        love.audio.newSource("wave/level4/5.wav"),
+        love.audio.newSource("wave/level4/6.wav"),
+        love.audio.newSource("wave/level4/7.wav"),
+        love.audio.newSource("wave/level4/8.wav"),
+        love.audio.newSource("wave/level4/9.wav"),
+        love.audio.newSource("wave/level4/10.wav"),
+        love.audio.newSource("wave/level4/11.wav"),
+        love.audio.newSource("wave/level4/12.wav"),
+        love.audio.newSource("wave/level4/13.wav"),
+        love.audio.newSource("wave/level4/14.wav"),
+        love.audio.newSource("wave/level4/15.wav"),
+        love.audio.newSource("wave/level4/16.wav")
+
+}
+notes_level5 = {
+        love.audio.newSource("wave/level5/1.wav"),
+        love.audio.newSource("wave/level5/2.wav"),
+        love.audio.newSource("wave/level5/3.wav"),
+        love.audio.newSource("wave/level5/4.wav"),
+        love.audio.newSource("wave/level5/5.wav"),
+        love.audio.newSource("wave/level5/6.wav"),
+        love.audio.newSource("wave/level5/7.wav"),
+        love.audio.newSource("wave/level5/8.wav"),
+        love.audio.newSource("wave/level5/9.wav"),
+        love.audio.newSource("wave/level5/10.wav"),
+        love.audio.newSource("wave/level5/11.wav"),
+        love.audio.newSource("wave/level5/12.wav"),
+        love.audio.newSource("wave/level5/13.wav"),
+        love.audio.newSource("wave/level5/14.wav"),
+        love.audio.newSource("wave/level5/15.wav"),
+        love.audio.newSource("wave/level5/16.wav"),
+        love.audio.newSource("wave/level5/17.wav")
+}
+notes_level6 = {
+        love.audio.newSource("wave/level6/1.wav"),
+        love.audio.newSource("wave/level6/2.wav"),
+        love.audio.newSource("wave/level6/3.wav"),
+        love.audio.newSource("wave/level6/4.wav"),
+        love.audio.newSource("wave/level6/5.wav"),
+        love.audio.newSource("wave/level6/6.wav"),
+        love.audio.newSource("wave/level6/7.wav"),
+        love.audio.newSource("wave/level6/8.wav"),
+        love.audio.newSource("wave/level6/9.wav"),
+        love.audio.newSource("wave/level6/10.wav"),
+        love.audio.newSource("wave/level6/11.wav"),
+        love.audio.newSource("wave/level6/12.wav"),
+        love.audio.newSource("wave/level6/13.wav"),
+        love.audio.newSource("wave/level6/14.wav"),
+        love.audio.newSource("wave/level6/15.wav"),
+        love.audio.newSource("wave/level6/16.wav"),
+        love.audio.newSource("wave/level6/17.wav"),
+        love.audio.newSource("wave/level6/18.wav")
+}
